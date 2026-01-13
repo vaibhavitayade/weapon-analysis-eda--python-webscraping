@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 
 This project focuses on collecting, cleaning, and analyzing **weapon data** from an online store using **Python-based web scraping** and **data analysis techniques**.
-The goal is to transform unstructured weapon information into a structured dataset and generate insights related to **price, weapon type, customer ratings, brands, and power sources**.
+The goal is to transform unstructured weapon information into a structured dataset and generate insights related to **price, weapon type, customer ratings, brands, and power sources**.  
 
 The dataset was scraped from:
 🔗 [https://airsoftstation.com/](https://airsoftstation.com/) 
